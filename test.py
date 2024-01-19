@@ -1,6 +1,5 @@
 # import os
 # import time
-# folder = '//KnowLedge77/Work - Dsystems/ПРОЕКТЫ/Система сейсмомониторинга СКИФ/Data/SKIF_Data_05.12.2023/Curiosity/Y2023/M09/D20/H22'
 # spl = folder.split('/')
 # # print(spl)
 
